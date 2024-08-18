@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../OrganizeDirectoryAutomation-PythonApp"
+		},
+		{
+			"path": "../PyautoGUI-PythonApp"
+		},
+		{
+			"path": "../Resize-Images-Automation-PythonApp"
+		},
+		{
+			"path": "../SeleniumApp-PythonApp"
+		},
+		{
+			"path": "../Tic-Tac-Toe-Game-PythonApp"
+		},
+		{
+			"path": "../Web-Scraping-with-Beautiful-Soup-PythonApp"
+		},
+		{
+			"path": "../YallaKora-Web-Scraping-with-Beautiful-Soup-PythonApp"
+		}
+	]
+}
